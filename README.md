@@ -1,5 +1,7 @@
 # Cambridge-iGEM-2022
 
+## Author: Sharon Ho, Anthony Phung, Joni Wildman
+
 The code used by the Cambridge iGEM 2022 Team to analyse the antithetic integral controller. 
 
 control_activation_antithetic.m and control_repression_antithetic.m is the linearised model implemented in MATLAB to find out the poles and sensitivity function of the system.
